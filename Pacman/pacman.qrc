@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="s1">pacman.png</file>
+        <file alias="s2">normspritepacman.png</file>
+        <file alias="s3">spritepacman.png</file>
+        <file alias="s4">s4.png</file>
+        <file alias="lvl1">level1.txt</file>
+        <file alias="Die">SceneDie.png</file>
+        <file alias="lvl2">level2.txt</file>
+        <file alias="lvl3">level3.txt</file>
+        <file alias="lvl4">level4.txt</file>
+    </qresource>
+</RCC>
